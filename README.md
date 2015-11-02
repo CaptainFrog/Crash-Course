@@ -1,2 +1,2 @@
 # Crash-Course
-Petit cours qui explique comment git et github fonctionnent.
+Petit cours qui expliquant comment git/github fonctionnent.
